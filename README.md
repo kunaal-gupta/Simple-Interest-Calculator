@@ -1,6 +1,6 @@
 **Project Name**: Simple Interest Calculator
 
-**Programming Language**: Python, Django, HTML/CSS, Bootstrap, JavaScript & JQuery
+**Programming Language**: HTML/CSS, Bootstrap, JavaScript & JQuery
 
 **Description**: Developed a full-stack Simple Interest calculating application as a part of Coursera Project
 * **Couerse Name**: Introduction to Web Development with HTML, CSS, JavaScript by IBM
@@ -25,8 +25,8 @@
  * Within the repository directory, open index.html using any internet browser.
 
 **Acknowledgments**: 
- * Django Documentation
  * HTML5/CSS CheatSheet
+ * Javascript Cheatsheet
  * Code Submission & style guidlines
 
 **Github Profile**: https://github.com/kunaal-gupta
